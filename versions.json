@@ -1,6 +1,6 @@
 {
     "lgz_graffiti": {
-        "package": {
+        "script": {
             "version": "0.1.4",
             "release": "2023-10-01"
         },
