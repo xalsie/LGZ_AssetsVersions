@@ -1,6 +1,12 @@
 {
     "lgz_graffiti": {
-        "version_lua": "0.1.4",
-        "version_ui": "0.3.0"
+        "package": {
+            "version": "0.1.4",
+            "release": "2023-10-01"
+        },
+        "web": {
+            "version": "0.1.4",
+            "release": "2023-10-01"
+        }
     }
 }
