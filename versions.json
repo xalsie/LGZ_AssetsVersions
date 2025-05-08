@@ -1,12 +1,12 @@
 {
     "lgz_graffiti": {
         "script": {
-            "version": "0.1.5:BETA",
-            "release": "2025-05-01"
+            "version": "0.1.6:BETA",
+            "release": "2025-05-08"
         },
         "web": {
-            "version": "0.3.0",
-            "release": "2025-05-01"
+            "version": "0.4.1",
+            "release": "2025-05-08"
         }
     }
 }
